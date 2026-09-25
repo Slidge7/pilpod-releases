@@ -17,7 +17,7 @@ Get the latest installer from the [Releases](https://github.com/Slidge7/pilpod-r
 Each release lists the installer's SHA-256 so you can verify the download:
 
 ```powershell
-Get-FileHash .\PilPod_Setup_0.1.0_x64.exe -Algorithm SHA256
+Get-FileHash .\PilPod_Setup_2.0.0_x64.exe -Algorithm SHA256
 ```
 
 ## Privacy
