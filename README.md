@@ -12,12 +12,12 @@ Get the latest installer from the [Releases](https://github.com/Slidge7/pilpod-r
 | Requirement | |
 |---|---|
 | OS | Windows 10 / 11, 64-bit |
-| Installer | `PilPod_Setup_<version>_x64.exe` |
+| Installer | `PilPod_<version>_x64-setup.exe` |
 
 Each release lists the installer's SHA-256 so you can verify the download:
 
 ```powershell
-Get-FileHash .\PilPod_Setup_2.0.0_x64.exe -Algorithm SHA256
+Get-FileHash .\PilPod_2.0.0_x64-setup.exe -Algorithm SHA256
 ```
 
 ## Privacy
